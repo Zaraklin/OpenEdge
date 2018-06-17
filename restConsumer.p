@@ -7,8 +7,8 @@
 
     Description : Exemplo de codigo para consumir WebServices Rest
 
-    Author(s)   : Rafael
-    Created     : Tue Jun 12 14:18:32 BRT 2018
+    Author(s)   : Zaraklin
+    Created     : 
     Notes       :
   ----------------------------------------------------------------------*/
 
